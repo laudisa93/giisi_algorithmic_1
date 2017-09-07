@@ -1,0 +1,4 @@
+Alicia    Troncoso 123456 M 13
+Pepe      Perez    123498 H 34
+Francisco Martinez 128765 H 27
+
